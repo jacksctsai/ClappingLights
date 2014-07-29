@@ -1,0 +1,12 @@
+{
+  "name": "ClappingLights",
+  "description": "Clapping lights powered by tessel",
+  "author": "Jack Tsai <jacksctsai@gmail.com>",
+  "dependencies": {
+    "ambient-attx4": "0.1.x",
+    "relay-mono": "0.1.x"
+  },
+  "devDependencies": {
+  },
+  "engine": "node >= 0.10.5"
+}
